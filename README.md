@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Stanislav </h1>
+<h1>👋 Hi, I’m Tai SaWFly </h1>
 
 - 👀 I’m interested in upgrade development skils
 - 🌱 I’m currently learning frontend development
