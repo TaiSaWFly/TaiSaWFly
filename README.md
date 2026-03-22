@@ -3,13 +3,10 @@
 - 👀 I’m interested in upgrade development skils
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking work as a developer
-- 📫 How to reach me vawer24@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://t.me/Tai_SaWFly" target="_blank"><img align="center" src="https://www.svgrepo.com/show/354443/telegram.svg" alt="@Tai_SaWFly" height="30" width="40" /></a>
   <a href="https://discordapp.com/users/378635814768214016" target="_blank"><img align="center" src="https://www.svgrepo.com/show/331368/discord-v2.svg" alt="@Tai_SaWFly" height="30" width="40" /></a>
-  <a href="mailto:vawer24@gmail.com" target="_blank"><img align="center" src="https://www.svgrepo.com/show/217146/gmail.svg" alt="@Tai_SaWFly" height="30" width="40" /></a>
 </p>
 
 <br>
